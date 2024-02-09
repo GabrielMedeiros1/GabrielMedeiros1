@@ -1,6 +1,6 @@
 ### 👋 Eaí, beleza?
 
-Eu sou o Gabriel, atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela PUCMINAS e estou no processo para ser um desenvolvedor Full-Stack. 💻
+**Eu sou o Gabriel, atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela PUCMINAS e estou no processo para ser um desenvolvedor Full-Stack. 💻**
 
 <hr style="border: 1px solid black;">
 
