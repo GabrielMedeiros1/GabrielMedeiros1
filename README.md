@@ -1,7 +1,11 @@
 ### 👋 Hi there
 
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cs,github,html,js" />
+  </a>
+</p>
 <!--
 **GabrielMedeiros1/GabrielMedeiros1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
