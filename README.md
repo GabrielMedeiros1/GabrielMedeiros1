@@ -2,15 +2,17 @@
 
 Eu sou o Gabriel, atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela PUCMINAS e estou no processo para ser um desenvolvedor Full-Stack. 💻
 
+<hr style="border: 1px solid black;">
 
- + Atualmente, tenho conhecimento em:
+ * Atualmente, tenho conhecimento em:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,cs,html,js" />
   </a>
 </p>
+<hr style="border: 1px solid black;">
 
-+ Redes sociais:
+* Redes sociais:
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram/g_medeiros1)[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-medeiros0/)
 
