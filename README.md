@@ -7,7 +7,7 @@
  * Atualmente, tenho conhecimento em:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,html,js" />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,html,css,js" />
   </a>
 </p>
 <hr style="border: 1px solid black;">
